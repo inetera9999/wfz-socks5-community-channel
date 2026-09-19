@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "*.dbclient-js": "javascript",
+        "socks5.h": "c",
+        "mysocks5.h": "c",
+        "ventry.h": "c",
+        "list.h": "c",
+        "util.h": "c",
+        "buff.h": "c",
+        "fcntl.h": "c",
+        "errno.h": "c"
+    }
+}
